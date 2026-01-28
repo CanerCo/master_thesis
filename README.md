@@ -1,1 +1,1 @@
-🌐 [Read on GitHub Pages](https://<YOUR_USER>.github.io/<YOUR_REPO>/)
+🌐 [Read my Master's thesis on GitHub Pages](https://CanerCo.github.io/master_thesis/)
